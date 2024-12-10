@@ -1,2 +1,2 @@
-# ai-read-my-docs
+# read docs
 Specify and summarize
